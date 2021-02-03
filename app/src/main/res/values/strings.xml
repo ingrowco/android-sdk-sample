@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">InGrow Client Android Sample</string>
+    <string name="send_events">Send Events</string>
+    <string name="login">Login</string>
+    <string name="send_events_with_enrichment">Send Events with Enrichment</string>
+    <string name="login_successful">Logged in Successfully.</string>
 </resources>
